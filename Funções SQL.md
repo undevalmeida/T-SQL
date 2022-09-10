@@ -1,7 +1,8 @@
 ># Funções SQL
-Vimos que temos várias funcções já disponíveis no SQL Server para serem usadas:
+    Vimos que temos várias funcções já disponíveis no SQL Server para serem usadas:
 * Strings - SUBSTRING, LEFT, LTRIM, ETC...
 * Datas - DATEADD, DATEDIFF, ETC...
 * Números - CELLING, FLOOR, RAND, ETC...
 * Conversão de dados - CAST e CONVERT
-Podemos definir nossas próprias funções e usá-las nas consultas.
+>
+    Podemos definir nossas próprias funções e usá-las nas consultas.
