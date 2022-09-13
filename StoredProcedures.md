@@ -20,3 +20,11 @@ Uma Stored Procedures tem as seguintes características:
 * O seu corpo deve ser delimitado por um BEGIN e END;
 * Devemos declarar as variáveis de entrada logo depois do nome da procedure;
 * Pode ter uma ou mais variáveis de retorno.
+  
+``` 
+CREATE PROCEDURE <NOME DA PROCEDURE><DECLARAÇÃO DAS VARIÁVEIS>
+AS 
+BEGIN
+    CORPO DA PROCEDURE
+END
+```
